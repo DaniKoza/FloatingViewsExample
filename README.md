@@ -7,7 +7,7 @@
   
 **FloatingViews**  is the first Android library i've made, it provides cool animated floating views that can be used in various ways.
 
-[](https://media.giphy.com/media/ztexA97T3udvbFKdRh/giphy.gif)
+![](https://media.giphy.com/media/ztexA97T3udvbFKdRh/giphy.gif)
 
 ## Integration  
   
