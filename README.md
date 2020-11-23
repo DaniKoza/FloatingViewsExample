@@ -44,7 +44,7 @@ Add the dependency
 
         myFloatingBananas = (FloatingViews) findViewById(R.id.floating_bananas_view);
 
-        /* You must init your desired floating object after findViewByID */
+        /* You must init your desired floating object AFTER findViewByID */
         myFloatingBananas.init(R.drawable.ic_banana);
     }
 }   
