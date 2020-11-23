@@ -30,7 +30,9 @@ Add the dependency
 
 ### Creating FloatingViews view
 **1.** Create instance of `FloatingViews` in your activity ('myFloatingBananas' in the example).
+
 **2.** Attach your floating view to the container of the animation ('R.id.floating_bananas_view' in the example).
+
 **3.** Finally use the init() method to set the desired object that will be floating ('ic_banana' in the example). And thats it.
 ```Java  
     @Override
