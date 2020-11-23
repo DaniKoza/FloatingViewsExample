@@ -1,0 +1,3 @@
+include ':FloatingViewsLib'
+include ':app'
+rootProject.name = "FloatingViewsExample"
