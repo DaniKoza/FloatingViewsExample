@@ -1,6 +1,6 @@
 # FloatingViewsExample
 
-[![](https://jitpack.io/#DaniKoza/FloatingViewsExample)
+[!](https://jitpack.io/#DaniKoza/FloatingViewsExample)
 
 
 ## Description
